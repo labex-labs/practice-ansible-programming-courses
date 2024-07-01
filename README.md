@@ -6,8 +6,8 @@
 
 Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows. It includes its own declarative language to describe system configuration.
 
-|   Index | Name                                                  | Level   | Repo                                                              | Course Link                                                            |
-|---------|-------------------------------------------------------|---------|-------------------------------------------------------------------|------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Repo                                                             | Course Link                                                           |
+|---------|-------------------------------------------------------|---------|------------------------------------------------------------------|-----------------------------------------------------------------------|
 |       1 | [Quick Start with Ansible](#quick-start-with-ansible) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible) | [🚀 Start Learning](https://labex.io/courses/quick-start-with-ansible) |
 
 ## More Courses
