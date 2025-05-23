@@ -12,7 +12,7 @@ Ansible 是一款强大的 IT 自动化工具。本技能树为学习 Ansible �
 
 |   序号 | 名称                                                                     | 难度   | Repo                                                              | 练习                                                                |
 |--------|--------------------------------------------------------------------------|--------|-------------------------------------------------------------------|---------------------------------------------------------------------|
-|      1 | [Ansible 快速入门](https://labex.io/zh/courses/quick-start-with-ansible) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-ansible) |
+|      1 | [Ansible 快速入门](https://labex.io/zh/courses/quick-start-with-ansible) | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-ansible) |
 
 ## 更多
 
