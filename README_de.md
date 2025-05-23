@@ -12,7 +12,7 @@ Ansible ist ein leistungsstarkes IT-Automatisierungstool. Dieser Skill Tree biet
 
 |   Index | Name                                                                             | Schwierigkeit   | Repo                                                              | Übung                                                                    |
 |---------|----------------------------------------------------------------------------------|-----------------|-------------------------------------------------------------------|--------------------------------------------------------------------------|
-|       1 | [Schnellstart mit Ansible](https://labex.io/de/courses/quick-start-with-ansible) | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible) | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-ansible) |
+|       1 | [Schnellstart mit Ansible](https://labex.io/de/courses/quick-start-with-ansible) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible) | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-ansible) |
 
 ## Mehr
 
