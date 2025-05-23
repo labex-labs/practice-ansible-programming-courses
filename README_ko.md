@@ -12,7 +12,7 @@ Ansible 는 강력한 IT 자동화 도구입니다. 이 스킬 트리는 Ansible
 
 |   인덱스 | 이름                                                                      | 난이도   | Repo                                                              | 연습                                                                 |
 |----------|---------------------------------------------------------------------------|----------|-------------------------------------------------------------------|----------------------------------------------------------------------|
-|        1 | [Ansible 퀵 스타트](https://labex.io/ko/courses/quick-start-with-ansible) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-ansible) |
+|        1 | [Ansible 퀵 스타트](https://labex.io/ko/courses/quick-start-with-ansible) | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-ansible) |
 
 ## 더 보기
 
