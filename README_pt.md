@@ -12,7 +12,7 @@ Ansible é uma ferramenta poderosa de automação de TI. Esta Skill Tree oferece
 
 |   Índice | Nome                                                                              | Dificuldade   | Repo                                                              | Prática                                                                |
 |----------|-----------------------------------------------------------------------------------|---------------|-------------------------------------------------------------------|------------------------------------------------------------------------|
-|        1 | [Início Rápido com Ansible](https://labex.io/pt/courses/quick-start-with-ansible) | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible) | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-ansible) |
+|        1 | [Início Rápido com Ansible](https://labex.io/pt/courses/quick-start-with-ansible) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible) | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-ansible) |
 
 ## Mais
 
