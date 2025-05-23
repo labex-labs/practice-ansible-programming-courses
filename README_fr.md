@@ -12,7 +12,7 @@ Ansible est un outil puissant d'automatisation IT. Cet arbre de compétences off
 
 |   Index | Nom                                                                                   | Difficulté   | Repo                                                              | Pratique                                                                    |
 |---------|---------------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------|
-|       1 | [Démarrage rapide avec Ansible](https://labex.io/fr/courses/quick-start-with-ansible) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible) | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-ansible) |
+|       1 | [Démarrage rapide avec Ansible](https://labex.io/fr/courses/quick-start-with-ansible) | Débutant     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible) | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-ansible) |
 
 ## Plus
 
