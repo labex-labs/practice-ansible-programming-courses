@@ -12,7 +12,7 @@ Ansible は強力な IT 自動化ツールです。このスキルツリーは�
 
 |   インデックス | 名前                                                                               | 難易度   | Repo                                                              | 練習                                                                  |
 |----------------|------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------|-----------------------------------------------------------------------|
-|              1 | [Ansible のクイックスタート](https://labex.io/ja/courses/quick-start-with-ansible) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-ansible) |
+|              1 | [Ansible のクイックスタート](https://labex.io/ja/courses/quick-start-with-ansible) | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-ansible) |
 
 ## その他
 
