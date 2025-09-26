@@ -8,12 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/PBjrCC7U2Koq.png">
 </div>
 
-Ansible は強力な IT 自動化ツールです。このスキルツリーは、Ansible を体系的に学ぶための方法を提供します。DevOps の初心者に最適で、構成管理、オーケストレーション、インフラストラクチャをコードとして理解するための明確なロードマップを提供します。実践的な演習とインタラクティブな Ansible プレイグラウンドで、IT プロセスの自動化に必要な実践的スキルを身につけることができます。
+この体系的な学習パスで Ansible を習得しましょう。初心者向けに設計された実践的な Ansible コースが多数用意されています。このロードマップは、IT 自動化、構成管理、Infrastructure as Code を習得するための体系的なアプローチを提供します。専用の Ansible プレイグラウンドで、動画なしのチュートリアルとインタラクティブな演習を通じて、実践的で実用的なスキルを身につけましょう。
 
 |   インデックス | 名前                                                                                                                                           | 難易度   | Repo                                                                                            | 練習                                                                                                |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-|              1 | [Ansible のクイックスタート](https://labex.io/ja/courses/quick-start-with-ansible)                                                             | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible)                               | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-ansible)                               |
-|              2 | [Red Hat Enterprise Linux 自動化 Ansible (RH294) 認定ラボ](https://labex.io/ja/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) | 中級     | [🔗 Repo](https://github.com/labex-labs/red-hat-enterprise-linux-automation-with-ansible-rh294) | [🚀 ラボを開始](https://labex.io/ja/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) |
+|              1 | [Red Hat Enterprise Linux 自動化 Ansible (RH294) 認定ラボ](https://labex.io/ja/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) | 初級     | [🔗 Repo](https://github.com/labex-labs/red-hat-enterprise-linux-automation-with-ansible-rh294) | [🚀 ラボを開始](https://labex.io/ja/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) |
 
 ## その他
 
