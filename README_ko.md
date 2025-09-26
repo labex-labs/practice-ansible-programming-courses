@@ -8,12 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/PBjrCC7U2Koq.png">
 </div>
 
-Ansible 는 강력한 IT 자동화 도구입니다. 이 스킬 트리는 Ansible 을 체계적으로 학습할 수 있는 방법을 제공합니다. DevOps 초보자에게 이상적이며, 구성 관리, 오케스트레이션 및 IaC(Infrastructure as Code) 를 이해하기 위한 명확한 로드맵을 제공합니다. 대화형 Ansible 플레이그라운드에서 실습 중심의 비디오 없는 코스와 실용적인 연습을 통해 IT 프로세스를 자동화하는 실제 기술을 개발할 수 있습니다.
+초보자를 위해 설계된 일련의 실습 Ansible 강좌를 통해 체계적인 학습 경로로 Ansible 을 배우세요. 이 로드맵은 IT 자동화, 구성 관리 및 코드형 인프라를 마스터하기 위한 체계적인 접근 방식을 제공합니다. 전용 Ansible 플레이그라운드에서 비디오가 아닌 튜토리얼과 대화형 연습을 통해 실용적인 실제 기술을 개발하세요.
 
 |   인덱스 | 이름                                                                                                                                                | 난이도   | Repo                                                                                            | 연습                                                                                               |
 |----------|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-|        1 | [Ansible 퀵 스타트](https://labex.io/ko/courses/quick-start-with-ansible)                                                                           | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible)                               | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-ansible)                               |
-|        2 | [Red Hat Enterprise Linux 자동화와 Ansible (RH294) 자격증 실습](https://labex.io/ko/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) | 중급     | [🔗 Repo](https://github.com/labex-labs/red-hat-enterprise-linux-automation-with-ansible-rh294) | [🚀 실습 시작](https://labex.io/ko/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) |
+|        1 | [Red Hat Enterprise Linux 자동화와 Ansible (RH294) 자격증 실습](https://labex.io/ko/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) | 초급     | [🔗 Repo](https://github.com/labex-labs/red-hat-enterprise-linux-automation-with-ansible-rh294) | [🚀 실습 시작](https://labex.io/ko/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) |
 
 ## 더 보기
 
