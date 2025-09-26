@@ -8,12 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/PBjrCC7U2Koq.png">
 </div>
 
-Ansible 是一款强大的 IT 自动化工具。本技能树为学习 Ansible 提供了系统的方法。它非常适合 DevOps 初学者，能为你掌握配置管理、编排以及基础设施即代码提供清晰的学习路径。通过实践操作、非视频课程以及在交互式 Ansible 实验环境中的实际练习，你将培养出在实际 IT 流程自动化中所需的技能。
+通过这个结构化的学习路径学习 Ansible，其中包含一系列专为初学者设计的动手实践 Ansible 课程。本路线图提供了一个系统化的方法来掌握 IT 自动化、配置管理和基础设施即代码。通过非视频教程和在专属 Ansible 演练场中的互动练习，培养实用的、真实世界的技能。
 
 |   序号 | 名称                                                                                                                                   | 难度   | Repo                                                                                            | 练习                                                                                              |
 |--------|----------------------------------------------------------------------------------------------------------------------------------------|--------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-|      1 | [Ansible 快速入门](https://labex.io/zh/courses/quick-start-with-ansible)                                                               | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible)                               | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-ansible)                               |
-|      2 | [红帽企业 Linux 自动化与 Ansible (RH294) 认证实验](https://labex.io/zh/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) | 中级   | [🔗 Repo](https://github.com/labex-labs/red-hat-enterprise-linux-automation-with-ansible-rh294) | [🚀 开始实验](https://labex.io/zh/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) |
+|      1 | [红帽企业 Linux 自动化与 Ansible (RH294) 认证实验](https://labex.io/zh/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) | 初级   | [🔗 Repo](https://github.com/labex-labs/red-hat-enterprise-linux-automation-with-ansible-rh294) | [🚀 开始实验](https://labex.io/zh/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) |
 
 ## 更多
 
