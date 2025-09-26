@@ -8,12 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/PBjrCC7U2Koq.png">
 </div>
 
-Ansible is a powerful IT automation tool. This Skill Tree offers a systematic way to learn Ansible. Ideal for DevOps beginners, it provides a clear roadmap to grasp configuration management, orchestration, and infrastructure as code. Hands - on, non - video courses and practical exercises in an interactive Ansible playground help you develop real - world skills in automating IT processes.
+Learn Ansible with this structured learning path, featuring a series of hands-on Ansible courses designed for beginners. This roadmap provides a systematic approach to mastering IT automation, configuration management, and infrastructure as code. Develop practical, real-world skills through non-video tutorials and interactive exercises in a dedicated Ansible playground.
 
 |   Index | Name                                                                                                                                                           | Difficulty   | Repo                                                                                            | Practice                                                                                        |
 |---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|       1 | [Quick Start with Ansible](https://labex.io/courses/quick-start-with-ansible)                                                                                  | Beginner     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-ansible)                               | [🚀 Start Lab](https://labex.io/courses/quick-start-with-ansible)                               |
-|       2 | [Red Hat Enterprise Linux Automation with Ansible (RH294) Certification Labs](https://labex.io/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) | Intermediate | [🔗 Repo](https://github.com/labex-labs/red-hat-enterprise-linux-automation-with-ansible-rh294) | [🚀 Start Lab](https://labex.io/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) |
+|       1 | [Red Hat Enterprise Linux Automation with Ansible (RH294) Certification Labs](https://labex.io/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) | Beginner     | [🔗 Repo](https://github.com/labex-labs/red-hat-enterprise-linux-automation-with-ansible-rh294) | [🚀 Start Lab](https://labex.io/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) |
 
 ## More
 
