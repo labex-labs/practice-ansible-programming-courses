@@ -13,6 +13,7 @@
 |   序号 | 名称                                                                                                                                   | 难度   | Repo                                                                                            | 练习                                                                                              |
 |--------|----------------------------------------------------------------------------------------------------------------------------------------|--------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 |      1 | [红帽企业 Linux 自动化与 Ansible (RH294) 认证实验](https://labex.io/zh/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) | 初级   | [🔗 Repo](https://github.com/labex-labs/red-hat-enterprise-linux-automation-with-ansible-rh294) | [🚀 开始实验](https://labex.io/zh/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) |
+|      2 | [Ansible 入门](https://labex.io/zh/courses/ansible-for-beginners)                                                                      | 初级   | [🔗 Repo](https://github.com/labex-labs/ansible-for-beginners)                                  | [🚀 开始实验](https://labex.io/zh/courses/ansible-for-beginners)                                  |
 
 ## 更多
 
