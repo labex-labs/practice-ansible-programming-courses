@@ -13,6 +13,7 @@
 |   인덱스 | 이름                                                                                                                                                | 난이도   | Repo                                                                                            | 연습                                                                                               |
 |----------|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 |        1 | [Red Hat Enterprise Linux 자동화와 Ansible (RH294) 자격증 실습](https://labex.io/ko/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) | 초급     | [🔗 Repo](https://github.com/labex-labs/red-hat-enterprise-linux-automation-with-ansible-rh294) | [🚀 실습 시작](https://labex.io/ko/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) |
+|        2 | [초보자를 위한 Ansible](https://labex.io/ko/courses/ansible-for-beginners)                                                                          | 초급     | [🔗 Repo](https://github.com/labex-labs/ansible-for-beginners)                                  | [🚀 실습 시작](https://labex.io/ko/courses/ansible-for-beginners)                                  |
 
 ## 더 보기
 
