@@ -13,6 +13,7 @@
 |   インデックス | 名前                                                                                                                                           | 難易度   | Repo                                                                                            | 練習                                                                                                |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 |              1 | [Red Hat Enterprise Linux 自動化 Ansible (RH294) 認定ラボ](https://labex.io/ja/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) | 初級     | [🔗 Repo](https://github.com/labex-labs/red-hat-enterprise-linux-automation-with-ansible-rh294) | [🚀 ラボを開始](https://labex.io/ja/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) |
+|              2 | [初心者向け Ansible](https://labex.io/ja/courses/ansible-for-beginners)                                                                        | 初級     | [🔗 Repo](https://github.com/labex-labs/ansible-for-beginners)                                  | [🚀 ラボを開始](https://labex.io/ja/courses/ansible-for-beginners)                                  |
 
 ## その他
 
